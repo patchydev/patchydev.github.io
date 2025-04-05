@@ -54,3 +54,7 @@ title = "Isabelle"
 
 [minify]
     minifyOutput = true
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
