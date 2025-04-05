@@ -1,20 +1,25 @@
 <div style="text-align: center;">
+If you want to add an embed to this site, you can use the following:
 
-![she/her](/images/she_her.png)
-![it/its](/images/it_its.png)
+<code>&lt;a href="https://patchydev.github.io" target="_blank"&gt;&lt;img src="https://patchydev.github.io/static/images/izzy.png" alt="Isabelle's Site"/&gt;&lt;/a&gt;</code>
 
+That will look like the following:
+
+<a href="https://patchydev.github.io" target="_blank"><img src="https://patchydev.github.io/static/images/izzy.png" alt="Isabelle's Site"/></a>
 </div>
 
+<hr>
 <div style="text-align: center;">
-
-<a href="https://trans.fish"><img src="/images/trans.png"></img></a>
-![non-binary](/images/enby.png)
-![lesbian](/images/lesbi.png)
-
+  <img src="/images/she_her.png" alt="she/her" style="display: inline-block; margin: 0 5px;">
+  <img src="/images/it_its.png" alt="it/its" style="display: inline-block; margin: 0 5px;">
 </div>
 
-<div style="text-align: center;">
+<div style="text-align: center; margin-top: 10px;">
+  <a href="https://trans.fish"><img src="/images/trans.png" style="display: inline-block; margin: 0 5px;"></a>
+  <img src="/images/enby.png" alt="non-binary" style="display: inline-block; margin: 0 5px;">
+  <img src="/images/lesbi.png" alt="lesbian" style="display: inline-block; margin: 0 5px;">
+</div>
 
-<a href="https://stellarwitch7.github.io" target="_blank"><img src="https://stellarwitch7.github.io/images/buttons/mine.png" alt="The Starwatch"/></a>
-
+<div style="text-align: center; margin-top: 10px;">
+  <a href="https://stellarwitch7.github.io" target="_blank"><img src="https://stellarwitch7.github.io/images/buttons/mine.png" alt="The Starwatch"></a>
 </div>
