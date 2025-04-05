@@ -1,0 +1,56 @@
+baseURL = "https://patchydev.github.io/"
+defaultContentLanguage = "en"
+enableEmoji = true
+enableRobotsTXT = true
+languageCode = "en"
+# Choose one of emacs, trac or perldoc
+pygmentsStyle = "monokai"
+theme = "gokarna"
+title = "Isabelle"
+
+[params]
+  avatarAltText = "avatar"
+  avatarSize = "size-m"
+  avatarURL = "/images/avatar.webp"
+
+  description = "silly cat makes computer go beep boop"
+  showBackToTopButton = true
+
+[menu]
+  [[menu.main]]
+    name = "About"
+    pre = "<span data-feather='book'></span>"
+    url = "/about/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Contact"
+    pre = "<span data-feather='phone'></span>"
+    url = "/contact/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Projects"
+    pre = "<span data-feather='code'></span>"
+    url = "/projects/"
+    weight = 4
+
+  [[menu.main]]
+    identifier = "github"
+    name = "GitHub"
+    pre = "<span data-feather='github'></span>"
+    url = "https://github.com/patchydev"
+    weight = 5
+
+[markup]
+  [markup.tableOfContents]
+    startLevel = 1
+    endLevel = 4
+    ordered = false
+
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+        unsafe = true
+
+[minify]
+    minifyOutput = true
