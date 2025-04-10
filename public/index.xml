@@ -3,12 +3,15 @@
 &lt;hr>
 &lt;div style="text-align: center;">
  &lt;img src="http://localhost:1313/images/she_her.png" alt="she/her" style="display: inline-block; margin: 0 5px;">
- &lt;img src="http://localhost:1313/images/it_its.png" alt="it/its" style="display: inline-block; margin: 0 5px;">
+ &lt;a href="https://lgbtqia.wiki/wiki/Voidpunk" target="_blank">&lt;img src="http://localhost:1313/images/it_its.png" alt="it/its" style="display: inline-block; margin: 0 5px;">&lt;/a>
+ &lt;img src="http://localhost:1313/images/hrt-e2.gif" alt="lesbian" style="display: inline-block; margin: 0 5px;">
 &lt;/div>
 &lt;div style="text-align: center; margin-top: 10px;">
  &lt;a href="https://trans.fish">&lt;img src="http://localhost:1313/images/trans.png" style="display: inline-block; margin: 0 5px;">&lt;/a>
  &lt;img src="http://localhost:1313/images/enby.png" alt="non-binary" style="display: inline-block; margin: 0 5px;">
  &lt;img src="http://localhost:1313/images/lesbi.png" alt="lesbian" style="display: inline-block; margin: 0 5px;">
+ &lt;a href="https://pluralityresource.org/plurality-information/" target="_blank">&lt;img src="http://localhost:1313/images/plural.png" alt="plural" style="display: inline-block; margin: 0 5px;">&lt;/a>
+ &lt;img src="http://localhost:1313/images/nap.png" alt="not a person" style="display: inline-block; margin: 0 5px;">
 &lt;/div>
 &lt;div style="text-align: center; margin-top: 10px;">
  &lt;a href="https://stellarwitch7.github.io" target="_blank">&lt;img src="https://stellarwitch7.github.io/images/buttons/mine.png" alt="The Starwatch">&lt;/a>
@@ -17,12 +20,15 @@
 &lt;hr>
 &lt;div style="text-align: center;">
  &lt;img src="http://localhost:1313/images/she_her.png" alt="she/her" style="display: inline-block; margin: 0 5px;">
- &lt;img src="http://localhost:1313/images/it_its.png" alt="it/its" style="display: inline-block; margin: 0 5px;">
+ &lt;a href="https://lgbtqia.wiki/wiki/Voidpunk" target="_blank">&lt;img src="http://localhost:1313/images/it_its.png" alt="it/its" style="display: inline-block; margin: 0 5px;">&lt;/a>
+ &lt;img src="http://localhost:1313/images/hrt-e2.gif" alt="lesbian" style="display: inline-block; margin: 0 5px;">
 &lt;/div>
 &lt;div style="text-align: center; margin-top: 10px;">
  &lt;a href="https://trans.fish">&lt;img src="http://localhost:1313/images/trans.png" style="display: inline-block; margin: 0 5px;">&lt;/a>
  &lt;img src="http://localhost:1313/images/enby.png" alt="non-binary" style="display: inline-block; margin: 0 5px;">
  &lt;img src="http://localhost:1313/images/lesbi.png" alt="lesbian" style="display: inline-block; margin: 0 5px;">
+ &lt;a href="https://pluralityresource.org/plurality-information/" target="_blank">&lt;img src="http://localhost:1313/images/plural.png" alt="plural" style="display: inline-block; margin: 0 5px;">&lt;/a>
+ &lt;img src="http://localhost:1313/images/nap.png" alt="not a person" style="display: inline-block; margin: 0 5px;">
 &lt;/div>
 &lt;div style="text-align: center; margin-top: 10px;">
  &lt;a href="https://stellarwitch7.github.io" target="_blank">&lt;img src="https://stellarwitch7.github.io/images/buttons/mine.png" alt="The Starwatch">&lt;/a>
