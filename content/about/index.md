@@ -1,6 +1,9 @@
 # About
 
-My name is Isabelle, but I mostly go by Isa. I'm a trans girlthing who enjoys programming, CTF, speedcubing, reading, and playing chess. I'm also an avid Linux user. I like listening to trap music, my favorite artists are Ghostemane, Warlord Colossus, and Kill Dyll. Professionally, I'm a DevOps engineer in the agriculture tech field.
+<p>My name is Isabelle, but I mostly go by Isa. I'm a trans girlthing who enjoys programming, CTF, speedcubing, reading, and playing chess. I'm also an avid Linux user, I use NixOS and SwayWM.</p>
+
+<p>I'm part of a system, meaning there are multiple, individual people in one physical body. You can learn more with <a href="https://pluralityresource.org/plurality-information/">this link</a>.</p>
+
 
 <hr>
 <div style="text-align: center;">

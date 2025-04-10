@@ -1,5 +1,5 @@
 <div style="text-align:center;">
-<p>Hey! I'm a witch, who also happens to be a cat :3</p>
+<p>Hey! I'm a witch, who also happens to be a cat :3 meow</p>
 Feel free to take a look around!
 <br></br>
 </div>
