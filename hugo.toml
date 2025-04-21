@@ -48,6 +48,13 @@ title = "Isabelle"
     pre = "<span data-feather='github'></span>"
     url = "https://github.com/patchydev"
     weight = 5
+  
+  [[menu.main]]
+  identifier = "pronouns.page"
+  name = "pronouns.page"
+  pre = "<span data-feather='user'></span>"
+  url = "https://en.pronouns.page/@patchydev"
+  weight = 6
 
 [markup]
   [markup.tableOfContents]
