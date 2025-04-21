@@ -2,7 +2,7 @@
 
 <p>My name is Isabelle, but I mostly go by Isa. I'm a trans girlthing who enjoys programming, CTF, speedcubing, reading, and playing chess. I'm also an avid Linux user, I use NixOS and SwayWM.</p>
 
-<p>I'm part of a system, meaning there are multiple, individual people in one physical body. You can learn more with <a href="https://pluralityresource.org/plurality-information/">this link</a>.</p>
+<p>If you want, you can check out my <a href="https://en.pronouns.page/@patchydev">pronouns.page</a></p>
 
 
 <hr>
