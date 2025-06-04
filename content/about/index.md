@@ -1,9 +1,8 @@
 # About
 
-<p>My name is Isabelle, but I mostly go by Isa. I'm a trans girlthing who enjoys programming, CTF, speedcubing, reading, and playing chess. I'm also an avid Linux user, I use NixOS and SwayWM.</p>
+<p>My name is Isabelle, but I mostly go by Isa. I'm a trans girlthing who enjoys programming, CTF, speedcubing, reading, and playing chess. I'm also an avid Linux user, I use Neovim, NixOS, and SwayWM.</p>
 
 <p>If you want, you can check out my <a href="https://en.pronouns.page/@patchydev">pronouns.page</a></p>
-
 
 <hr>
 <div style="text-align: center;">
@@ -23,3 +22,4 @@
 <div style="text-align: center; margin-top: 10px;">
   <a href="https://aurakle.github.io" target="_blank"><img src="https://aurakle.github.io/images/buttons/mine.png" alt="The Starwatch"></a>
 </div>
+

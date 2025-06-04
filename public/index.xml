@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Isabelle</title><link>http://localhost:1313/</link><description>Recent content on Isabelle</description><generator>Hugo</generator><language>en</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>http://localhost:1313/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/about/</guid><description>&lt;h1 id="about">About&lt;/h1>
-&lt;p>My name is Isabelle, but I mostly go by Isa. I'm a trans girlthing who enjoys programming, CTF, speedcubing, reading, and playing chess. I'm also an avid Linux user, I use NixOS and SwayWM.&lt;/p>
+&lt;p>My name is Isabelle, but I mostly go by Isa. I'm a trans girlthing who enjoys programming, CTF, speedcubing, reading, and playing chess. I'm also an avid Linux user, I use Neovim, NixOS, and SwayWM.&lt;/p>
 &lt;p>If you want, you can check out my &lt;a href="https://en.pronouns.page/@patchydev">pronouns.page&lt;/a>&lt;/p>
 &lt;hr>
 &lt;div style="text-align: center;">
@@ -34,9 +34,9 @@
 &lt;div style="text-align: center; margin-top: 10px;">
  &lt;a href="https://aurakle.github.io" target="_blank">&lt;img src="https://aurakle.github.io/images/buttons/mine.png" alt="The Starwatch">&lt;/a>
 &lt;/div></description></item><item><title/><link>http://localhost:1313/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/projects/</guid><description>&lt;h1 id="projects">Projects&lt;/h1>
-&lt;h3 id="warning-bad-poorly-documented-code-lies-ahead">Warning: bad, poorly documented code lies ahead&lt;/h3>
+&lt;h3 id="warning-bad-poorly-documented-code-lies-ahead">Warning: bad, poorly documented code lies ahead.&lt;/h3>
 &lt;p>I like to do silly things with computers, here&amp;rsquo;s some of my favorite:&lt;/p>
+&lt;h2 id="kiwi">&lt;a href="https://github.com/patchydev/kiwi">Kiwi&lt;/a>&lt;/h2>
+&lt;p>A compiler written in Zig from scratch (except for the use of LLVM IR). Kiwi aims to be a functional language with imperative style syntax, and is my favorite project I&amp;rsquo;ve worked on to date.&lt;/p>
 &lt;h2 id="image-replacer-proxy">&lt;a href="https://github.com/patchydev/network-file-replacer">Image Replacer Proxy&lt;/a>&lt;/h2>
-&lt;p>This is quite possibly the most cursed thing I&amp;rsquo;ve ever done on a computer. It acts as a proxy that replaces some percent of images to an image. It&amp;rsquo;s funny. Made in Rust and Python. Good luck figuring out how to compile it lol&lt;/p>
-&lt;h2 id="theo">&lt;a href="https://github.com/patchydev/theo">Theo&lt;/a>&lt;/h2>
-&lt;p>A chess engine/library written in Rust&amp;hellip; that doesn&amp;rsquo;t fully work. Currently procrastinating a complete refactor.&lt;/p></description></item></channel></rss>
+&lt;p>This is quite possibly the most cursed thing I&amp;rsquo;ve ever done on a computer. It acts as a proxy that replaces some percent of images to an image. It&amp;rsquo;s funny. Made in Rust and Python. Good luck figuring out how to compile it lol&lt;/p></description></item></channel></rss>

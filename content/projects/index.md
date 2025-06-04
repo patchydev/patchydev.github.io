@@ -1,15 +1,23 @@
 # Projects
-### Warning: bad, poorly documented code lies ahead
+
+### Warning: bad, poorly documented code lies ahead.
 
 I like to do silly things with computers, here's some of my favorite:
 
+## [Kiwi](https://github.com/patchydev/kiwi)
+
+A compiler written in Zig from scratch (except for the use of LLVM IR). Kiwi aims to be a functional language with imperative style syntax, and is my favorite project I've worked on to date.
+
 ## [Image Replacer Proxy](https://github.com/patchydev/network-file-replacer)
+
 This is quite possibly the most cursed thing I've ever done on a computer. It acts as a proxy that replaces some percent of images to an image. It's funny. Made in Rust and Python. Good luck figuring out how to compile it lol
 
 ## [Theo](https://github.com/patchydev/theo)
+
 A chess engine/library written in Rust... that doesn't fully work. Currently procrastinating a complete refactor.
 
 ## There's more...
+
 I'm just either not proud of it, or am under a legally binding contract to not share them.
 
 <hr>
@@ -30,3 +38,4 @@ I'm just either not proud of it, or am under a legally binding contract to not s
 <div style="text-align: center; margin-top: 10px;">
   <a href="https://aurakle.github.io" target="_blank"><img src="https://aurakle.github.io/images/buttons/mine.png" alt="The Starwatch"></a>
 </div>
+

@@ -1,17 +1,18 @@
 <div style="text-align:center;">
 <p>Hey! I'm a witch, who also happens to be a cat :3 meow</p>
-Feel free to take a look around!
+Feel free to take a look around! You can learn more <a href="/about">about me</a> or check out some of my <a href="/projects">projects</a>.
 <br></br>
 </div>
 
 <div style="text-align: center;">
 If you want to add an embed to this site, you can use the following:
 
-<code>&lt;a href=\"https://patchydev.github.io\" target=\"_blank\"&gt;&lt;img src=\"https://patchydev.github.io/static/images/izzy.png\" alt=\"Isabelle's Site\"/&gt;&lt;/a&gt;</code>
+<code>&lt;a href=\"https://patchydev.github.io\" target=\"\_blank\"&gt;&lt;img src=\"https://patchydev.github.io/static/images/izzy.png\" alt=\"Isabelle's Site\"/&gt;&lt;/a&gt;</code>
 
 That will look like the following:
 
 <a href="https://patchydev.github.io" target="_blank"><img src="https://patchydev.github.io/static/images/izzy.png" alt="Isabelle's Site"/></a>
+
 </div>
 
 <hr>
@@ -32,3 +33,4 @@ That will look like the following:
 <div style="text-align: center; margin-top: 10px;">
   <a href="https://aurakle.github.io" target="_blank"><img src="https://aurakle.github.io/images/buttons/mine.png" alt="The Starwatch"></a>
 </div>
+
