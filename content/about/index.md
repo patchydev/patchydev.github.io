@@ -15,11 +15,9 @@
   <a href="https://trans.fish"><img src="/images/trans.png" style="display: inline-block; margin: 0 5px;"></a>
   <img src="/images/enby.png" alt="non-binary" style="display: inline-block; margin: 0 5px;">
   <img src="/images/lesbi.png" alt="lesbian" style="display: inline-block; margin: 0 5px;">
-  <a href="https://pluralityresource.org/plurality-information/" target="_blank"><img src="/images/plural.png" alt="plural" style="display: inline-block; margin: 0 5px;"></a>
   <img src="/images/nap.png" alt="not a person" style="display: inline-block; margin: 0 5px;">
 </div>
 
 <div style="text-align: center; margin-top: 10px;">
-  <a href="https://aurakle.github.io" target="_blank"><img src="https://aurakle.github.io/images/buttons/mine.png" alt="The Starwatch"></a>
+  <a href="https://aurakle.dev" target="_blank"><img src="https://aurakle.dev/images/buttons/mine.png" alt="The Starwatch"></a>
 </div>
-

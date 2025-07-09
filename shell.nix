@@ -1,5 +1,10 @@
-let
-  pkgs = import (fetchTarball("channel:nixpkgs-unstable")) {};
-  in pkgs.mkShell {
-    buildInputs = [ pkgs.hugo ];
+{
+  pkgs ? import <nixpkgs> { },
+}:
+
+pkgs.mkShell {
+  buildInputs = [
+    pkgs.hugo
+  ];
 }
+
