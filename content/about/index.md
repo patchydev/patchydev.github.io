@@ -1,6 +1,6 @@
 # About
 
-<p>My name is Isabelle, but I mostly go by Isa. I'm a trans girlthing who enjoys programming, CTF, speedcubing, reading, and playing chess. I'm also an avid Linux user, I use Neovim, NixOS, and SwayWM.</p>
+<p>My name is Eleanor, but I mostly go by El. I'm a trans girlthing who enjoys programming, CTF, speedcubing, reading, and playing chess. I'm also an avid Linux user, I use Neovim, NixOS, and SwayWM.</p>
 
 <p>If you want, you can check out my <a href="https://en.pronouns.page/@patchydev">pronouns.page</a></p>
 

@@ -7,11 +7,11 @@ Feel free to take a look around! You can learn more <a href="/about">about me</a
 <div style="text-align: center;">
 If you want to add an embed to this site, you can use the following:
 
-<code>&lt;a href=\"https://patchydev.github.io\" target=\"\_blank\"&gt;&lt;img src=\"https://patchydev.github.io/static/images/izzy.png\" alt=\"Isabelle's Site\"/&gt;&lt;/a&gt;</code>
+<code>&lt;a href=\"https://patchydev.github.io\" target=\"\_blank\"&gt;&lt;img src=\"https://patchydev.github.io/static/images/izzy.png\" alt=\"Eleanor's Site\"/&gt;&lt;/a&gt;</code>
 
 That will look like the following:
 
-<a href="https://patchydev.github.io" target="_blank"><img src="https://patchydev.github.io/static/images/izzy.png" alt="Isabelle's Site"/></a>
+<a href="https://patchydev.github.io" target="_blank"><img src="https://patchydev.github.io/static/images/izzy.png" alt="Eleanor's Site"/></a>
 
 </div>
 

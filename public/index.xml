@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Isabelle</title><link>http://localhost:1313/</link><description>Recent content on Isabelle</description><generator>Hugo</generator><language>en</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>http://localhost:1313/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/about/</guid><description>&lt;h1 id="about">About&lt;/h1>
-&lt;p>My name is Isabelle, but I mostly go by Isa. I'm a trans girlthing who enjoys programming, CTF, speedcubing, reading, and playing chess. I'm also an avid Linux user, I use Neovim, NixOS, and SwayWM.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Eleanor</title><link>http://localhost:1313/</link><description>Recent content on Eleanor</description><generator>Hugo</generator><language>en</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>http://localhost:1313/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/about/</guid><description>&lt;h1 id="about">About&lt;/h1>
+&lt;p>My name is Eleanor, but I mostly go by El. I'm a trans girlthing who enjoys programming, CTF, speedcubing, reading, and playing chess. I'm also an avid Linux user, I use Neovim, NixOS, and SwayWM.&lt;/p>
 &lt;p>If you want, you can check out my &lt;a href="https://en.pronouns.page/@patchydev">pronouns.page&lt;/a>&lt;/p>
 &lt;hr>
 &lt;div style="text-align: center;">
@@ -11,11 +11,10 @@
  &lt;a href="https://trans.fish">&lt;img src="http://localhost:1313/images/trans.png" style="display: inline-block; margin: 0 5px;">&lt;/a>
  &lt;img src="http://localhost:1313/images/enby.png" alt="non-binary" style="display: inline-block; margin: 0 5px;">
  &lt;img src="http://localhost:1313/images/lesbi.png" alt="lesbian" style="display: inline-block; margin: 0 5px;">
- &lt;a href="https://pluralityresource.org/plurality-information/" target="_blank">&lt;img src="http://localhost:1313/images/plural.png" alt="plural" style="display: inline-block; margin: 0 5px;">&lt;/a>
  &lt;img src="http://localhost:1313/images/nap.png" alt="not a person" style="display: inline-block; margin: 0 5px;">
 &lt;/div>
 &lt;div style="text-align: center; margin-top: 10px;">
- &lt;a href="https://aurakle.github.io" target="_blank">&lt;img src="https://aurakle.github.io/images/buttons/mine.png" alt="The Starwatch">&lt;/a>
+ &lt;a href="https://aurakle.dev" target="_blank">&lt;img src="https://aurakle.dev/images/buttons/mine.png" alt="The Starwatch">&lt;/a>
 &lt;/div></description></item><item><title/><link>http://localhost:1313/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/contact/</guid><description>&lt;h1 id="contact">Contact&lt;/h1>
 &lt;p>You can reach me on Discord at &lt;code>patchydev&lt;/code> (preferred), or via e-mail at &lt;code>patchydev@proton.me&lt;/code>.&lt;/p>
 &lt;hr>
@@ -28,11 +27,10 @@
  &lt;a href="https://trans.fish">&lt;img src="http://localhost:1313/images/trans.png" style="display: inline-block; margin: 0 5px;">&lt;/a>
  &lt;img src="http://localhost:1313/images/enby.png" alt="non-binary" style="display: inline-block; margin: 0 5px;">
  &lt;img src="http://localhost:1313/images/lesbi.png" alt="lesbian" style="display: inline-block; margin: 0 5px;">
- &lt;a href="https://pluralityresource.org/plurality-information/" target="_blank">&lt;img src="http://localhost:1313/images/plural.png" alt="plural" style="display: inline-block; margin: 0 5px;">&lt;/a>
  &lt;img src="http://localhost:1313/images/nap.png" alt="not a person" style="display: inline-block; margin: 0 5px;">
 &lt;/div>
 &lt;div style="text-align: center; margin-top: 10px;">
- &lt;a href="https://aurakle.github.io" target="_blank">&lt;img src="https://aurakle.github.io/images/buttons/mine.png" alt="The Starwatch">&lt;/a>
+ &lt;a href="https://aurakle.dev" target="_blank">&lt;img src="https://aurakle.dev/images/buttons/mine.png" alt="The Starwatch">&lt;/a>
 &lt;/div></description></item><item><title/><link>http://localhost:1313/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/projects/</guid><description>&lt;h1 id="projects">Projects&lt;/h1>
 &lt;h3 id="warning-bad-poorly-documented-code-lies-ahead">Warning: bad, poorly documented code lies ahead.&lt;/h3>
 &lt;p>I like to do silly things with computers, here&amp;rsquo;s some of my favorite:&lt;/p>
