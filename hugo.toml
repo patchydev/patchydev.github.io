@@ -31,30 +31,36 @@ title = "Eleanor"
     weight = 2
 
   [[menu.main]]
+    name = "Posts"
+    pre = "<span data-feather='archive'></span>"
+    url = "/posts/"
+    weight = 3
+
+  [[menu.main]]
     name = "Contact"
     pre = "<span data-feather='phone'></span>"
     url = "/contact/"
-    weight = 3
+    weight = 4
 
   [[menu.main]]
     name = "Projects"
     pre = "<span data-feather='code'></span>"
     url = "/projects/"
-    weight = 4
+    weight = 5
 
   [[menu.main]]
     identifier = "github"
     name = "GitHub"
     pre = "<span data-feather='github'></span>"
     url = "https://github.com/patchydev"
-    weight = 5
+    weight = 6
 
   [[menu.main]]
   identifier = "pronouns.page"
   name = "pronouns.page"
   pre = "<span data-feather='user'></span>"
   url = "https://en.pronouns.page/@patchydev"
-  weight = 6
+  weight = 7
 
 [markup]
   [markup.tableOfContents]
