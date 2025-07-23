@@ -30,5 +30,5 @@ That will look like the following:
 </div>
 
 <div style="text-align: center; margin-top: 10px;">
-  <a href="https://aurakle.dev" target="_blank"><img src="https://aurakle.dev/images/buttons/mine.png" alt="The Starwatch"></a>
+  <a href="https://aurakle.dev" target="_blank"><img src="https://aurakle.dev/images/buttons/mine.webp" alt="The Starwatch"></a>
 </div>
