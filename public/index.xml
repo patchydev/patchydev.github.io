@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Eleanor</title><link>http://localhost:1313/</link><description>Recent content on Eleanor</description><generator>Hugo</generator><language>en</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>http://localhost:1313/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/about/</guid><description>&lt;h1 id="about">About&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Eleanor</title><link>http://localhost:1313/</link><description>Recent content on Eleanor</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 23 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml"/><item><title>Test Post</title><link>http://localhost:1313/posts/test/</link><pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/test/</guid><description>&lt;h1 id="hello">Hello&lt;/h1>
+&lt;p>this is my blog&lt;/p></description></item><item><title/><link>http://localhost:1313/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/about/</guid><description>&lt;h1 id="about">About&lt;/h1>
 &lt;p>My name is Eleanor, but I mostly go by El. I'm a trans girlthing who enjoys programming, CTF, speedcubing, reading, and playing chess. I'm also an avid Linux user, I use Neovim, NixOS, and SwayWM.&lt;/p>
 &lt;p>If you want, you can check out my &lt;a href="https://en.pronouns.page/@patchydev">pronouns.page&lt;/a>&lt;/p>
 &lt;hr>
@@ -14,7 +15,7 @@
  &lt;img src="http://localhost:1313/images/nap.png" alt="not a person" style="display: inline-block; margin: 0 5px;">
 &lt;/div>
 &lt;div style="text-align: center; margin-top: 10px;">
- &lt;a href="https://aurakle.dev" target="_blank">&lt;img src="https://aurakle.dev/images/buttons/mine.png" alt="The Starwatch">&lt;/a>
+ &lt;a href="https://aurakle.dev" target="_blank">&lt;img src="https://aurakle.dev/images/buttons/mine.webp" alt="The Starwatch">&lt;/a>
 &lt;/div></description></item><item><title/><link>http://localhost:1313/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/contact/</guid><description>&lt;h1 id="contact">Contact&lt;/h1>
 &lt;p>You can reach me on Discord at &lt;code>patchydev&lt;/code> (preferred), or via e-mail at &lt;code>patchydev@proton.me&lt;/code>.&lt;/p>
 &lt;hr>
@@ -30,7 +31,7 @@
  &lt;img src="http://localhost:1313/images/nap.png" alt="not a person" style="display: inline-block; margin: 0 5px;">
 &lt;/div>
 &lt;div style="text-align: center; margin-top: 10px;">
- &lt;a href="https://aurakle.dev" target="_blank">&lt;img src="https://aurakle.dev/images/buttons/mine.png" alt="The Starwatch">&lt;/a>
+ &lt;a href="https://aurakle.dev" target="_blank">&lt;img src="https://aurakle.dev/images/buttons/mine.webp" alt="The Starwatch">&lt;/a>
 &lt;/div></description></item><item><title/><link>http://localhost:1313/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/projects/</guid><description>&lt;h1 id="projects">Projects&lt;/h1>
 &lt;h3 id="warning-bad-poorly-documented-code-lies-ahead">Warning: bad, poorly documented code lies ahead.&lt;/h3>
 &lt;p>I like to do silly things with computers, here&amp;rsquo;s some of my favorite:&lt;/p>
