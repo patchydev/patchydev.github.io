@@ -50,9 +50,9 @@ title = "Isabelle"
 
   [[menu.main]]
     identifier = "github"
-    name = "GitHub"
+    name = "Codeberg"
     pre = "<span data-feather='github'></span>"
-    url = "https://github.com/patchydev"
+    url = "https://codeberg.org/patchydev"
     weight = 6
 
   [[menu.main]]
