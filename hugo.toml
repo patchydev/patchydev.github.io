@@ -13,7 +13,7 @@ title = "Isabelle"
   avatarSize = "size-m"
   avatarURL = "/images/avatar.webp"
 
-  description = "silly cat makes computer go beep boop"
+  description = "silly robot makes computer go beep boop"
   showBackToTopButton = true
 
   customHeadHTML = '''
