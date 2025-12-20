@@ -6,6 +6,9 @@ New, fun projects on the way!
 
 I like to do silly things with computers, here's some of my favorite:
 
+## [Zany](https://codeberg.org/patchydev/zany)
+A very WIP interactive fiction experiment written in Go
+
 ## [Kiwi](https://codeberg.org/patchydev/kiwi)
 
 A compiler written in Zig from scratch (except for the use of LLVM IR). Kiwi aims to be a functional language with imperative style syntax, and is my favorite project I've worked on to date.
