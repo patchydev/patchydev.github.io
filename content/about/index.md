@@ -1,6 +1,6 @@
 # About
 
-<p>My name is Isabelle, but I mostly go by Isa. I'm a trans girlthing who enjoys programming, Warhammer 40k, CTF, speedcubing, and playing chess. I'm also an avid Linux user.</p>
+<p>My name is Cifera, but I mostly go by Cif. I'm a trans girlthing who enjoys programming, Warhammer 40k, Trench Crusade, CTF, speedcubing, and playing chess. I'm also an avid Linux user.</p>
 
 <p>I prefer it/its pronouns, but she/her is also acceptable.</p>
 
