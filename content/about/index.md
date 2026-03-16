@@ -12,7 +12,7 @@
 
 <hr>
 <div style="text-align: center;">
-    <img href="/images/avatar_full.webp" alt="full art">
+    <img href="/static/images/avatar_full.webp" alt="full art">
 </div>
 <hr>
 
