@@ -4,7 +4,7 @@
 
 <p>I prefer it/its pronouns, but she/her is also acceptable.</p>
 
-<p>If you want, you can check out my <a href="https://en.pronouns.page/@patchydev">pronouns.page (may be outdated!)</a></p>
+<p>If you want, you can check out my <a href="https://en.pronouns.page/@patchydev">pronouns.page</a></p>
 
 <p>You can also find me on <a href="https://bsky.app/profile/patchy.cc">Bluesky</a>!</p>
 
