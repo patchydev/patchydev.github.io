@@ -2,12 +2,9 @@
 
 ### Warning: bad, poorly documented code lies ahead.
 
-New, fun projects on the way!
+New, fun projects on the way! :3
 
 I like to do silly things with computers, here's some of my favorite:
-
-## [Zany](https://codeberg.org/patchydev/zany)
-A very WIP interactive fiction experiment written in Go
 
 ## [Kiwi](https://codeberg.org/patchydev/kiwi)
 
