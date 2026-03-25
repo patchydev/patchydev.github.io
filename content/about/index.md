@@ -8,7 +8,15 @@
 
 <p>You can also find me on <a href="https://bsky.app/profile/patchy.cc">Bluesky</a>.</p>
 
-<p>Below is some amazing art of me by <a href="https://bsky.app/profile/guydrawing.bsky.social">DamnoS</a>!</p>
+<p>Below is some amazing art of me by <a href="https://x.com/ChillestNye">ChillestNye</a>!</p>
+
+<hr>
+<div style="text-align: center;">
+    <img src="/images/clif.png" alt="full pixel art">
+</div>
+<hr>
+
+<p>And by <a href="https://bsky.app/profile/guydrawing.bsky.social">DamnoS</a>!</p>
 
 <hr>
 <div style="text-align: center;">
