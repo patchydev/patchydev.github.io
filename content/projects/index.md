@@ -6,6 +6,10 @@ New, fun projects on the way! :3
 
 I like to do silly things with computers, here's some of my favorite:
 
+## [Nymor](https://codeberg.org/patchydev/nymor)
+
+My second attempt at a chess engine, this time written in OCaml.
+
 ## [Kiwi](https://codeberg.org/patchydev/kiwi)
 
 A compiler written in Zig from scratch (except for the use of LLVM IR). Kiwi aims to be a functional language with imperative style syntax, and is my favorite project I've worked on to date.
@@ -16,7 +20,7 @@ This is quite possibly the most cursed thing I've ever done on a computer. It ac
 
 ## [Theo](https://codeberg.org/patchydev/theo)
 
-A chess engine/library written in Rust... that doesn't fully work. Currently procrastinating a complete refactor.
+A chess engine/library written in Rust... that doesn't fully work. Archived due to Nymor!
 
 ## There's more...
 
