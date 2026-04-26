@@ -18,7 +18,6 @@ That will look like the following:
 <hr>
 <div style="text-align: center;">
   <a href="https://lgbtqia.wiki/wiki/Voidpunk" target="_blank"><img src="/images/it_its.png" alt="it/its" style="display: inline-block; margin: 0 5px;"></a>
-  <img src="/images/she_her.png" alt="she/her" style="display: inline-block; margin: 0 5px;">
   <img src="/images/hrt-e2.gif" alt="lesbian" style="display: inline-block; margin: 0 5px;">
   <img src="/images/queercoded.webp" alt="A QUEER?" style="display: inline-block; margin: 0 5px;">
 </div>

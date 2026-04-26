@@ -1,8 +1,8 @@
 # About
 
-<p>My name is Cifera, but I mostly go by Cif. I'm a trans girlthing who enjoys programming, Warhammer 40k, Trench Crusade, rally, Fear & Hunger, backpacking/hiking, and bouldering. I'm also an avid Linux user.</p>
+<p>My name is Cifera, but I mostly go by Cif. I'm a robot who enjoys programming, Warhammer 40k, Trench Crusade, rally, video games, and backpacking/hiking. I'm also an avid Linux user.</p>
 
-<p>I prefer it/its pronouns, but she/her is also acceptable.</p>
+<p>it/its pronouns only!.</p>
 
 <p>If you want, you can check out my <a href="https://en.pronouns.page/@patchydev">pronouns.page</a></p>
 
